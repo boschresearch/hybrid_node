@@ -1,5 +1,5 @@
 # Hybrid vehicle single track model
-This repository contains `Julia` and `Python` code to reproduce numerical results of the paper:
+This repository contains `Julia` and `Python` code to reproduce numerical results of the manuscript:
 *Vehicle single track modeling using physics informed neural differential equations*
 
 ## How to run it?
